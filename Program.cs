@@ -3,7 +3,7 @@
 
 int total = 0;
 int newValue = 0;
-List<int> sequence = new List<int>();
+List<int> sequence = new ();
 
 for (int i = 0; ;i++ ) {
     if(i == 0 || i == 1)
